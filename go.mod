@@ -1,4 +1,4 @@
-module github.com/aribroo/go-ecommerce
+module github.com/aribroo/go-restapi
 
 go 1.22.1
 
